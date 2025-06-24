@@ -10,4 +10,4 @@ The Model for the Analysis of Energy Demand (MAED) was developed by the Internat
 This repository contains the code used to run the model.
 
 ## Contributing
-New ideas and bugs should be submissted to the repository issue tracker. Please do contribute by discussing and developing these ideas further.
+New ideas and bugs should be submitted to the repository issue tracker. Please do contribute by discussing and developing these ideas further.
